@@ -24,3 +24,5 @@
       (else #t))))
 
 (print (member? 'a '(b c a)))
+
+;note
