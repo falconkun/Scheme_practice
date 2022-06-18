@@ -25,4 +25,4 @@
 
 (print (member? 'a '(b c a)))
 
-;henkou
+;note
